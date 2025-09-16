@@ -69,7 +69,9 @@ python client.py
 
 ## Nossa Equipe
 
-1. Bernardo Heuer (bchg@cesar.school)
-2. Silvio Fittipaldi (sfm@cesar.school)
-3. Rodrigo Nunes (rbnm@cesar.school)
-4. Eduardo Roma (erca@cesar.school)
+1. Bernardo Heuer 
+2. Silvio Fittipaldi
+3. Rodrigo Nunes
+4. Eduardo Roma 
+5. Ronaldo Souto
+6. Luis Melo
