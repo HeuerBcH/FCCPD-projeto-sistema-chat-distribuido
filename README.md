@@ -66,3 +66,10 @@ python client.py
 2.  Envie mensagens de diferentes clientes e verifique se todos os outros as recebem.
 3.  Desconecte um cliente usando o comando `sair` e observe a notificação do servidor nos outros clientes.
 4.  Feche a janela de um terminal cliente abruptamente e verifique se o servidor lida com a desconexão e notifica os demais.
+
+## Nossa Equipe
+
+1. Bernardo Heuer (bchg@cesar.school)
+2. Silvio Fittipaldi (sfm@cesar.school)
+3. Rodrigo Nunes (rbnm@cesar.school)
+4. Eduardo Roma (erca@cesar.school)
