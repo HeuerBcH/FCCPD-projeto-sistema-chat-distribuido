@@ -75,3 +75,7 @@ python client.py
 4. Eduardo Roma 
 5. Ronaldo Souto
 6. Luis Melo
+
+## Relatório
+
+Disponível em: https://docs.google.com/document/d/1I7Op-5wodbAroMeQizDbrXAx-OX130dxD4ugR-1EJIc/edit?tab=t.0
