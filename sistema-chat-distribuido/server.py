@@ -1,4 +1,3 @@
-# server.py
 import socket
 import threading
 
@@ -15,7 +14,6 @@ def broadcast(message, remetente):
                 try:
                     cliente.sendall(message)
                 except:
-                    # Remove o cliente se falhar
                     remover_cliente(cliente)
 
 def remover_cliente(cliente_socket):
@@ -40,7 +38,6 @@ def handle_client(conn, addr):
         while True:
             try:
                 data = conn.recv(1024)
-                # Se recv retornar bytes vazios, o cliente fechou a conexão de forma correta
                 if not data:
                     break
                 
